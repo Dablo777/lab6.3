@@ -1,0 +1,13 @@
+﻿  lab6.2it.cpp
+C:\Users\User\source\repos\lab6.3it\lab6.2it.cpp(38,17): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab6.3it\lab6.2it.cpp(48,17): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+      C:\Users\User\source\repos\lab6.3it\lab6.2it.cpp(48,17):
+      the template instantiation context (the oldest one first) is
+          C:\Users\User\source\repos\lab6.3it\lab6.2it.cpp(22,14):
+          see reference to function template instantiation 'T Sum<int>(T *,const int)' being compiled
+          with
+          [
+              T=int
+          ]
+  
+  lab6.3it.vcxproj -> C:\Users\User\source\repos\lab6.3it\x64\Debug\lab6.3it.exe

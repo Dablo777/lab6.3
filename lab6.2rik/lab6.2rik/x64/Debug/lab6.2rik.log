@@ -1,0 +1,17 @@
+﻿  lab6.2rek.cpp
+C:\Users\User\source\repos\lab6.2rik\lab6.2rek.cpp(36,29): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\lab6.2rik\lab6.2rek.cpp(46,29): warning C4244: 'return': conversion from 'double' to 'T', possible loss of data
+C:\Users\User\source\repos\lab6.2rik\lab6.2rek.cpp(46,29): warning C4244:         with
+C:\Users\User\source\repos\lab6.2rik\lab6.2rek.cpp(46,29): warning C4244:         [
+C:\Users\User\source\repos\lab6.2rik\lab6.2rek.cpp(46,29): warning C4244:             T=int
+C:\Users\User\source\repos\lab6.2rik\lab6.2rek.cpp(46,29): warning C4244:         ]
+      C:\Users\User\source\repos\lab6.2rik\lab6.2rek.cpp(46,29):
+      the template instantiation context (the oldest one first) is
+          C:\Users\User\source\repos\lab6.2rik\lab6.2rek.cpp(21,14):
+          see reference to function template instantiation 'T Sum<int>(T *,const int,int)' being compiled
+          with
+          [
+              T=int
+          ]
+  
+  lab6.2rik.vcxproj -> C:\Users\User\source\repos\lab6.2rik\x64\Debug\lab6.2rik.exe
